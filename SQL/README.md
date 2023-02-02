@@ -1,4 +1,4 @@
-1) Revising the Select Query I\n
+1) Revising the Select Query I  
 Link for the question: https://www.hackerrank.com/challenges/revising-the-select-query/problem
 
 2) Revising the Select Query II
